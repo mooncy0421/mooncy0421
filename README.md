@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ![PyTorch](http://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white&link=https://pytorch.org/)
 ![C++](http://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Pandas](http://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
+  
 </div>
   
 <div>
