@@ -50,7 +50,6 @@ Here are some ideas to get you started:
 <div>
 
 ![Chiyeong Heo's github stats](https://github-readme-stats.vercel.app/api?username=mooncy0421&show_icons=true&theme=vue-dark)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mooncy0421)](https://solved.ac/mooncy0421)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mooncy0421)](https://solved.ac/mooncy0421)
 
 </div>
